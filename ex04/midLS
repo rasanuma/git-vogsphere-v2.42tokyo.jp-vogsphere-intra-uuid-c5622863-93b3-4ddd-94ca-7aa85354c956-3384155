@@ -1,0 +1,40 @@
+z, Library, testShell00, testShell00.tar, ex00, ex01, ex02, ex02.tar, es03, 
+ex03, klist.txt, ex04, midLS
+
+./Library:
+Keychains, Preferences
+
+./Library/Keychains:
+31CC7BA5-11E9-524A-B197-097F1E44074A
+
+./Library/Keychains/31CC7BA5-11E9-524A-B197-097F1E44074A:
+keychain-2.db, keychain-2.db-shm, keychain-2.db-wal, Analytics
+
+./Library/Keychains/31CC7BA5-11E9-524A-B197-097F1E44074A/Analytics:
+localkeychain.db, localkeychain.db-shm, localkeychain.db-wal, 
+ckks_analytics.db, ckks_analytics.db-shm, ckks_analytics.db-wal
+
+./Library/Preferences:
+com.apple.LaunchServices, com.apple.dt.xcodebuild.plist
+
+./Library/Preferences/com.apple.LaunchServices:
+
+./ex00:
+
+./ex01:
+testShell00, testShell00.tar, 
+
+./ex02:
+test1, test6, test2, test0, test4, test5, test3
+
+./ex02/test2:
+
+./ex02/test0:
+
+./es03:
+
+./ex03:
+klist.txt
+
+./ex04:
+midLS

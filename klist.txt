@@ -1,0 +1,6 @@
+Credentials cache: API:85C1A30F-4057-40F7-B0C8-529477AC2F72
+        Principal: rasanuma@42TOKYO.JP
+
+		  Issued                Expires             Flags    Principal
+		  Nov 24 23:17:58 2020  Nov 25 09:17:58 2020  FPIA   krbtgt/42TO
+		  KYO.JP@42TOKYO.JP
